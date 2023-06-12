@@ -103,7 +103,7 @@ Analisando os **zeros** de um sistema, conseguimos descobrir:
 
 ## Resposta temporal de sistemas dinâmicos
 
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/USH75nuHV6w/0.jpg)](https://www.youtube.com/watch?v=USH75nuHV6w)
+[![IMAGE ALT TEXT HERE](./assets/pic6.jpg)](https://www.youtube.com/watch?v=USH75nuHV6w)
 
 A análise da resposta temporal de um sistema de controle a sinais de entrada conhecidos, como degraus, impulso, rampa, entre outros, é fundamental para avaliar o desempenho do sistema e para o projeto de controladores. Através desta análise, é possível extrair parâmetros importantes como o tempo de subida, tempo de acomodação, sobressinal e erro de estado estacionário, que são críticos para entender como o sistema reage a mudanças ou perturbações. Além disso, a resposta temporal fornece insights sobre a estabilidade do sistema, pois um sistema instável pode ter uma resposta que diverge com o tempo. Observar como o sistema responde a um degrau, por exemplo, pode ser especialmente útil, pois este tipo de entrada é frequentemente usado para representar mudanças súbitas ou comandos de referência em aplicações práticas.
 
@@ -111,7 +111,7 @@ Além disso, a análise de resposta temporal é essencial para a identificação
 
 ### Resposta padrão de um sistema de segunda ordem
 
-![](https://farm6.staticflickr.com/5602/15473342390_07a90a157d_o.png)
+![](./assets/pic7.png)
 
 Imagem retirada de [Embedded related](https://www.embeddedrelated.com/showarticle/671.php)
 
